@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karan_shashank" target="blank"><img src="https://img.shields.io/twitter/follow/karan_shashank?logo=twitter&style=for-the-badge" alt="karan_shashank" /></a> </p>
 
-- 🌱 I’m currently learning **Unity 3D**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking **for internship opportunities**
 
