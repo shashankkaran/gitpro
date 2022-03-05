@@ -15,12 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/karan_shashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="karan_shashank" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashank-karan-21124418b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="shashank-karan-21124418b/" height="30" width="40" /></a>
-<a href="https://fb.com/shashank.karan.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="shashank.karan.14" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shashankkaran41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="shashankkaran41" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shashankkaran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/shashankkaran" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shashankkaran999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@shashankkaran999" height="30" width="40" /></a>
+[![Website](https://img.shields.io/website?label=shashankkaran.web.app&logo=Google%20Chrome&style=flat-square&url=https://shashankkaran.web.app/)]
+[![Website](https://img.shields.io/website?label=blog.abhishekjnvk.in&logo=Google%20Chrome&style=flat-square/)]
+(https://link.abhishekjnvk.in/go/mLY9)&nbsp;&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/website?label=/abhishekjnvk&logo=LinkedIn&style=flat-square&url=https://resume.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/0C3L)&nbsp;&nbsp;&nbsp;
+[![linkedin](https://img.shields.io/website?label=abhishekkumarjnvk@gmail.com&logo=Gmail&style=flat-square&url=https://resume.abhishekjnvk.in/)](https://link.abhishekjnvk.in/go/Enl9)&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
