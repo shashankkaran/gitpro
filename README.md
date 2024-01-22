@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking **for internship opportunities**
-
 - 🤝 Also to contribute more and more to Open Source projects **Open Source projects**
 
-- 📫 How to reach me **shashankkaran999@gmail.com**
+- 📫 How to reach me **shashankkaran41@gmail.com**
 
 
 ## 💼 Skills
