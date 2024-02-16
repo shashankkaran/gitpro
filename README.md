@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank Karan</h1>
-<h3 align="center">I'm a 3rd year CSE undergraduate at NIT, Jamshedpur</h3>
+<h3 align="center">I'm a 4th year CSE undergraduate at NIT, Jamshedpur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkaran&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkaran" /> </p>
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently working on integration of LLM's
 
 - 🤝 Also to contribute more and more to Open Source projects **Open Source projects**
 
